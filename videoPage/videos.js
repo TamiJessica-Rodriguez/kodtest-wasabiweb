@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
   thumbnails.forEach((thumbnail) => {
     thumbnail.addEventListener("click", function () {
       mainVideo.src = thumbnail.src;
-      mainVideo.play(); // Starta videospelning när en thumbnail klickas
+      mainVideo.play(); 
     });
   });
 

@@ -24,7 +24,7 @@ h1 {
   font-size: 2.5rem;
   font-weight: 700;
   opacity: 0; /* Start invisible */
-  animation: fadeIn 2s ease-out forwards; /* Animation named fadeIn, takes 2 seconds, fades out smoothly, and "forwards" keeps the final state */
+  animation: fadeIn 2s ease-out forwards; 
 }
 
 /* Keyframes for fadeIn effect */
