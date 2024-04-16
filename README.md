@@ -28,7 +28,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/image-video-gallery.git
+git clone https://github.com/TamiJessica-Rodriguez/kodtest-wasabiweb.git
 
 # There are no dependencies to install, so you can simply open the HTML file in your browser
 open welcomePage.html - Go Live
